@@ -58,7 +58,7 @@ a:hover{
 }
 
 /* humberger Menu */
-#humberger-nav{
+#humburger-nav{
     display: none;
 }
 
@@ -67,7 +67,7 @@ a:hover{
     display: inline-block;
 }
 
-.humberger-icon{
+.humburger-icon{
     display: flex;
     flex-direction: column;
     justify-content: space-between;

@@ -30,7 +30,7 @@ nav, .nav-links{
 nav{
     justify-content: space-around;
     align-items: center;
-    height: 17vh;
+    height: 14vh;
 }
 .nav-links{
     gap: 2rem;
@@ -146,8 +146,8 @@ a:hover{
   
   section {
     padding-top: 4vh;
-    height: 96vh;
-    margin: 0 10rem;
+    height: 76vh;
+    margin: 0 6rem;
     box-sizing: border-box;
     min-height: fit-content;
   }
@@ -164,12 +164,16 @@ a:hover{
     gap: 5rem;
     height: 80vh;
   }
-  
   .section__pic-container {
     display: flex;
-    height: 400px;
-    width: 400px;
+    height: 80px;
+    width: 80px;
     margin: auto 0;
+    border-radius: 50%;
+  }
+  
+  img{
+    border-radius: 50%;
   }
   
   .section__text {

@@ -198,11 +198,12 @@ box-shadow: 10px 10px 40px 0px rgba(73,123,148,1);
   .section__text__p2 {
     font-size: 1.75rem;
     margin-bottom: 1rem;
+
   }
-  
   .title {
     font-size: 3rem;
     text-align: center;
+    padding-top:20px;
   }
   
   #socials-container {

@@ -18,10 +18,12 @@ body{
   font-weight: 500;
 }
 .wrapper .dynamic-txts{
+  margin-left: 15px;
+
 
 }
-.dynamic-txts{
-  color: rgb(49, 202, 49);
+.dynamic-txts li{
+  color: rgb(66, 119, 146);
   list-style: none;
   font-size: 35px;
   font-weight: 600;

@@ -15,15 +15,16 @@ body{
 }
 .wrapper .static-txt{
   font-size: 35px;
-  font-weight: 300;
+  font-weight: 500;
 }
 .wrapper .dynamic-txts{
 
 }
 .dynamic-txts{
+  color: rgb(49, 202, 49);
   list-style: none;
-  font-size: 35;
-  font-weight: 300;
+  font-size: 35px;
+  font-weight: 600;
 }
 /* scroll to a different page to scroll smoothly */
 html{

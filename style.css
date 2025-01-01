@@ -10,6 +10,21 @@ body{
     font-style: normal;
     height: max-content;
 }
+.wrapper{
+  display: inline-flex;
+}
+.wrapper .static-txt{
+  font-size: 35px;
+  font-weight: 300;
+}
+.wrapper .dynamic-txts{
+
+}
+.dynamic-txts{
+  list-style: none;
+  font-size: 35;
+  font-weight: 300;
+}
 /* scroll to a different page to scroll smoothly */
 html{
     scroll-behavior: smooth;

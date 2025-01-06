@@ -16,6 +16,11 @@ body{
   background-color: #000000;
   color: white;
 }
+
+.light-mode {
+  background-color: white;
+  color: black;
+}
 .wrapper{
   display: inline-flex;
 }

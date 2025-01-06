@@ -473,6 +473,11 @@ box-shadow: 10px 10px 40px 0px rgba(73,123,148,1);
   .email-icon {
     height: 2.5rem;
   }
+
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
   
   /* FOOTER SECTION */
   

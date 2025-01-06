@@ -9,5 +9,8 @@ function toggleMenu() {
   }
 function darkMode() {
     let element = document.body;
-    element.classList.toggle("dark-mode");
+    let content = document.getElementById("DarkModetext");
+    element.className = "dark-mode";
+    content.innerText = "Dark Mode is ON";
 }
+ 

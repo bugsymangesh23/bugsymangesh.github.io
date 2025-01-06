@@ -9,6 +9,12 @@ body{
     font-weight: 400;
     font-style: normal;
     height: max-content;
+    background-color: white;
+    color: black;
+}
+.dark-mode {
+  background-color: #000000;
+  color: white;
 }
 .wrapper{
   display: inline-flex;
@@ -474,11 +480,6 @@ box-shadow: 10px 10px 40px 0px rgba(73,123,148,1);
     height: 2.5rem;
   }
 
-  .dark-mode {
-    background-color: black;
-    color: white;
-  }
-  
   /* FOOTER SECTION */
   
   footer {

@@ -101,7 +101,7 @@ a{
 }
 a:hover{
     color: grey;
-    text-decoration: line-through;
+    text-decoration:wavy;
     text-underline-offset: 1rem;
     text-decoration-color: rgb(181, 181, 181);
 }

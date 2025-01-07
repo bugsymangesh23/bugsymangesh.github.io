@@ -55,7 +55,7 @@ body{
   left: 0;
   height: 100%;
   width:100%;
-  background: black;
+  background: white;
   border-left: 2px solid rgb(66, 119, 146);
   animation: typing 1.5s steps(17) infinite;
 }

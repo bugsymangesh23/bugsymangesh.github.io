@@ -1,2 +1,24 @@
 /*============================GOOGLE FONTS=============================*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+/* =====================Variables css=======================*/
+:root{
+    --header-height: 3rem;
+
+/* =============================Colors=============================== */
+--hue-color:;
+
+/* HSL Color Code */
+--first-color:;
+--first-color-second:;
+--first-color-alternate:;
+--first-color-lighter:;
+--title-color:;
+--text-color:;
+--text-color-light:;
+--input-color:;
+--body-color:;
+--container-color:;
+
+/* ======================Font and Typography===================== */
+
+}

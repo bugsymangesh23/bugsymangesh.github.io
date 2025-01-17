@@ -5,10 +5,10 @@
     --header-height: 3rem;
 
 /* =============================Colors=============================== */
---hue-color:;
+--hue-color:142;
 
 /* HSL Color Code */
---first-color:hsl(142, 95%, 34%);
+--first-color:hsl(Var(--hue-color), 95%, 34%);
 --first-color-second:;
 --first-color-alternate:;
 --first-color-lighter:;

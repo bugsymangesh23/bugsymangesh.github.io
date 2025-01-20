@@ -44,4 +44,22 @@
 --mb-2:2rem;
 --mb-2-5:2.5rem;
 --mb-3:3rem;
+
+/* ==========================Z-index=========================== */
+--z-tooltip:10;
+--z-fixed:100;
+--z-modal:1000;
+} 
+
+/* ===========================Font-size for large screens==================== */
+@media screen and (min-width: 968){
+    :root {
+        --big-font-size:3rem;
+        --h1-font-size:2.25rem;
+        --h2-font-size:1.5rem;
+        --h3-font-size:1.25rem;
+        --normal-font-size:1rem;
+        --small-font-size:.875rem;
+        --smaller-font-size:.813rem;
+    }
 }

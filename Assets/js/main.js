@@ -15,3 +15,16 @@ if(navClose){
         navMenu.classList.remove('show-menu')
     })
 }
+
+/*===============Remove Menu Mobile=======================*/
+const navLink = document.getElementById('.nav__link')
+
+function linkAction(){
+    const navMenu = document.getElementById('nav-menu')
+    // remove show menu whenever we click on any nav__link
+    navMenu.classList.remove('show-menu')
+}
+navLink.array.forEach(n => n.addEventListener('click', linkAction))  
+
+
+

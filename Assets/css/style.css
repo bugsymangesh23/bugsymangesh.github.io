@@ -313,3 +313,11 @@ img{
     display: inline-flex;
     align-items: center;
 }
+
+/* ===============================================ABOUT=========================================== */
+.about__img{
+    width: 200px;
+    border-radius: .5rem;
+    justify-self: center;
+    align-self: center;
+}
